@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+   font-size: 50px; 
+}
+h2{
+    font-size: 40px;
+}
+.Name-highlight{
+    color: orange;
+}
+.helf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.helf-width img{
+    width: 100%;
+}
